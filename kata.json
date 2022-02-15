@@ -1,0 +1,91 @@
+[
+    {
+        "kata_title":"WeIrD StRiNg CaSe",
+        "kata_topics":["ALGORITHM","UTILITIES","STRINGS"],
+        "kata_link":"https://www.codewars.com/kata/52b757663a95b11b3d00062d/train/javascript",
+        "kata_kyu": 6
+    },
+    {
+        "kata_title":"Predict your age!",
+        "kata_topics":["FUNDAMENTALS"],
+        "kata_link":"https://www.codewars.com/kata/5aff237c578a14752d0035ae/train/javascript",
+        "kata_kyu": 7
+    },
+    {
+        "kata_title":"Remove duplicate words",
+        "kata_topics":["ALGORITHMS","STRINGS","REGULAR EXPRESSIONS","DECLARATIVE PROGRAMMING","ADVANCED LANGUAGE FEATURES"],"kata_link":"https://www.codewars.com/kata/5b39e3772ae7545f650000fc/train/javascript",
+        "kata_kyu": 7
+    },
+    {
+        "kata_title":"Create Phone Number",
+        "kata_topics":["ALGORITHMS","STRINGS","REGULAR EXPRESSIONS","DECLARATIVE PROGRAMMING","ARRAY", "LOOPS"],
+        "kata_link":"https://www.codewars.com/kata/525f50e3b73515a6db000b83/train/javascript",
+        "kata_kyu": 6
+    },
+    {
+        "kata_title":"Find the longest gap!",
+        "kata_topics":["STRINGS","REGULAR EXPRESSIONS","DECLARATIVE PROGRAMMING"],
+        "kata_link":"https://www.codewars.com/kata/find-the-longest-gap/train/javascript",
+        "kata_kyu": 7
+    },
+    {
+        "kata_title":"Beginner - Lost Without a Map",
+        "kata_topics":["FUNDAMENTALS","ARRAY","NUMBERS"],
+        "kata_link":"https://www.codewars.com/kata/beginner-lost-without-a-map/train/javascript",
+        "kata_kyu": 8
+    },
+    {
+        "kata_title":"Order the food",
+        "kata_topics":["HIGHER-ORDER FUNCTIONS","FUNCTIONS","FUNCTIONAL PROGRAMMING", "OBJECTS", "ARRAYS", "CONTROL FLOW"],
+        "kata_link":"https://www.codewars.com/kata/583952fbc23341c7180002fd/train/javascript",
+        "kata_kyu": 7
+    },
+    {
+        "kata_title":"Remove First and Last Character",
+        "kata_topics":["FUNDAMENTALS","BASIC LANGUAGE FEATURES", "STRINGS"],
+        "kata_link":"https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/javascript",
+        "kata_kyu": 8
+    },
+    {
+        "kata_title":"Reversed Strings",
+        "kata_topics":["FUNDAMENTALS", "STRINGS"],
+        "kata_link":"https://www.codewars.com/kata/reversed-strings/train/javascript",
+        "kata_kyu": 8
+    },
+    {
+        "kata_title":"Sort array by string length",
+        "kata_topics":["FUNDAMENTALS", "SORTING", "ARRAYS"],
+        "kata_link":"https://www.codewars.com/kata/sort-array-by-string-length/train/javascript",
+        "kata_kyu": 7
+    },
+    {
+        "kata_title":"Sort the Gift Code",
+        "kata_topics":["FUNDAMENTALS", "SORTING", "STRINGS"],
+        "kata_link":"https://www.codewars.com/kata/sort-the-gift-code/train/javascript",
+        "kata_kyu": 7
+    },
+    {
+        "kata_title":"Validate Credit Card Number",
+        "kata_topics":["ALGORITHMS", "VALIDATION"],
+        "kata_link":"https://www.codewars.com/kata/validate-credit-card-number/train/javascript",
+        "kata_kyu": 6
+    },
+    {
+        "kata_title":"Is the meetup language-diverse?",
+        "kata_topics":["HIGHER-ORDER FUNCTIONS","FUNCTIONS","FUNCTIONAL PROGRAMMING", "OBJECTS", "ARRAYS", "CONTROL FLOW"],
+        "kata_link":"https://www.codewars.com/kata/58381907f8ac48ae070000de/train/javascript",
+        "kata_kyu": 6
+    },
+    {
+        "kata_title":"Count the number of JavaScript developers coming from Europe",
+        "kata_topics":["HIGHER-ORDER FUNCTIONS","FUNCTIONS","FUNCTIONAL PROGRAMMING", "OBJECTS", "ARRAYS", "CONTROL FLOW"],
+        "kata_link":"https://www.codewars.com/kata/582746fa14b3892727000c4f/train/javascript",
+        "kata_kyu": 7
+    },
+    {
+        "kata_title":"Find the most senior developer",
+        "kata_topics":["HIGHER-ORDER FUNCTIONS","FUNCTIONS","FUNCTIONAL PROGRAMMING", "OBJECTS", "ARRAYS", "CONTROL FLOW"],
+        "kata_link":"https://www.codewars.com/kata/582887f7d04efdaae3000090/train/javascript",
+        "kata_kyu": 6
+    }
+]
